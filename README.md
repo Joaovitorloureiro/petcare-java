@@ -1,7 +1,7 @@
 # PetCare — Sistema de Clínica Veterinária (Java)
 
 Projeto acadêmico da disciplina **Programação Orientada a Objetos I** — Ciências da Computação, Universidade de Vila Velha (UVV).
-Desenvolvido em dupla (João Vitor e Murilo).
+Desenvolvido em dupla: João Vitor de Carvalho Loureiro e Murilo Cipriano Carvalho.
 
 ## O que o sistema faz
 - **Usuários:** classe base `Usuario` com login; perfis por herança: `Administrador`, `Recepcionista`, `Tutor` e `Veterinario`.
